@@ -8,5 +8,5 @@ test('Generates style string', t => {
 });
 
 test('Generates empty style string', t => {
-  t.is(attribute({}), '');
+  t.is(attribute({}), '')
 });
