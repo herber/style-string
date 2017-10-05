@@ -1,4 +1,4 @@
-# style-string [![Build Status](https://travis-ci.org/tobihrbr/style-string.svg?branch=master)](https://travis-ci.org/tobihrbr/style-string) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
+# style-string [![Build Status](https://travis-ci.org/herber/style-string.svg?branch=master)](https://travis-ci.org/herber/style-string) [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi)
 
 
 > Generate inline style strings
